@@ -1,0 +1,2 @@
+Average of test scores: 75.00
+Standard deviation of test scores: 12.92
